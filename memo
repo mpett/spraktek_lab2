@@ -48,6 +48,18 @@ imperativa verb
 
 done.
 
-7. 
+-- DELUPPGIFT 3 --
+
+7. Ord som slutar på -alitet, till exempel serialitet och fundamentalitet godkänns inte av Stava. Hitta på två regler som fixar detta. 
+första försöket är alitet ös, alt, det gick inge vidare
+(ös|alt)alitet t matchar för många ord
+alitet ell, al funkar inte alls (borde väl göra det: fundamentell, fundamental, seriell, serial).
+alitet ell funkar för serialitet men inte för fundamentalitet (???)
+alitet al funkar för fundamentalitet men inte för serialitet (enl. saob borde detta inte vara rätt)
+itet @,t,a funkar inte
+ordet serial finns ju för fan inte i ordlistan
+bullshitlabb
+
+färdig.
 
 
