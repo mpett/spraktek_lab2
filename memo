@@ -1,2 +1,53 @@
-1. Testa webbgränssnittet med några olika texter och på fil.
+1. Testa webbgränssnittet med några olika texter och på fil. done
 Testat http://www.dn.se/nyheter/sverige/cyklister-cyklade-ratt-in-i-militar-raketovning/
+Gjorde textfil från http://www.dn.se/ekonomi/saudier-sakrar-finansiering-for-varldens-hogsta-byggnad/
+Testat testfilen från labbsidan.
+
+2. Testa olika inställningar på väljarna. done
+
+3. Titta på manualen till Stava för att se vilka inställningsmöjligheter som finns. done
+
+4. Kör testversionen på några
+	regelbundna ord: hoppade, älsklingen, kreativt
+	sammansatta ord: järnvägsbro, pappershållare, fickkniv
+	regelbundet böjda sammansatta ord: regnbågsfärger, statsapparaterna, högskolestudenternas
+
+Felstavade ord: 
+älsklingen, matchar suffixregeln älsklingen ling
+
+järnvägsbro sammansatt som järn|väg|s|bro
+pappershållare sammansatt som pappers|hållare
+fickkniv sammansatt som fick|kniv
+
+regnbågsfärger sammansatt som regn|båg|s|färger
+apparaterna matchar suffixregeln apparat|erna @ en er ~rare ~ern ~ret 
+statsapparaterna sammansatt som stats|apparaterna
+studenternas matchar suffixregeln student|ernas @ en er ~rare ~ern ~ret 
+högskolestudenternas sammansatt som högskole|studenternas
+
+done
+
+5. Hitta ett treledssammansatt ord. vaxkakmönster
+vaxkakmönster sammansatt som vax|kak|mönster
+Vilken suffixregel används? er ret, na
+Vad betyder den? att man ska tillåta ändelserna ret och na på ord som slutar på er.
+
+done ~
+
+6. Vad betyder följande regel? Hur många ord genereras av den? Vilken ordklass har orden? 
+(dj|mm)@ a, ande, ~anden, ~ade
+anbefall
+anfall
+anfrät
+angiv
+angrip... osv
+
+443 ord genererades.
+
+imperativa verb
+
+done.
+
+7. 
+
+
